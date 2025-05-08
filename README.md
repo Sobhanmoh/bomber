@@ -8,4 +8,4 @@ cd  bomber
 
 pip install -r requirements.txt
 
-python main.py
+python bomber.py
